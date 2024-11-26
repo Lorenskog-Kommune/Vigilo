@@ -12,6 +12,15 @@ furnished to do so, subject to the following conditions:
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
+Tillegg til MIT-lisensen: Forbud mot kommersiell bruk
+Ingen kommersiell bruk: Uavhengig av tillatelsene gitt i MIT-lisensen, er det ikke 
+tillatt å bruke, kopiere, modifisere, flette, publisere, distribuere, viderelisensiere, 
+eller selge kopier av programvaren eller derivater av programvaren til kommersielle 
+formål, uten uttrykkelig skriftlig tillatelse fra opphavsrettsinnehaveren. 
+Denne begrensningen gjelder for all bruk som innebærer kommersiell utnyttelse, 
+inkludert, men ikke begrenset til, distribusjon som en del av en betalt tjeneste, 
+integrering i et kommersielt produkt, eller på annen måte bruk som genererer økonomisk gevinst.
+
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
